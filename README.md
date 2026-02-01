@@ -28,12 +28,6 @@ This project supports 10 different chart types for data visualization.
 4. Enter input values as prompted
 
 ## Output
-## Demo Video
-
-Click the image below to watch a short demo of the Chart Visualizer in action:
-
-[![Demo Video](Screenshots/Screenshot%202026-02-01%20083358.png)](demo/demo.mp4)
-## ScreenShots
 ![Chart Output](Screenshots/Screenshot%202026-02-01%20083358.png)
 ![Chart Output](Screenshots/Screenshot%202026-02-01%20083409.png)
 ![Chart Output](Screenshots/Screenshot%202026-02-01%20083421.png)

@@ -27,14 +27,15 @@ This project supports 10 different chart types for data visualization.
 4. Enter input values as prompted
 
 ## Output
-![Chart Output](screenshots/Screenshot 2026-02-01 083358.png)
-![Chart Output](screenshots/Screenshot 2026-02-01 083409.png)
-![Chart Output](screenshots/Screenshot 2026-02-01 083421.png)
-![Chart Output](screenshots/Screenshot 2026-02-01 083431.png)
-![Chart Output](screenshots/Screenshot 2026-02-01 083443.png)
-![Chart Output](screenshots/Screenshot 2026-02-01 083454.png)
-![Chart Output](screenshots/Screenshot 2026-02-01 083507.png)
-![Chart Output](screenshots/Screenshot 2026-02-01 083516.png)
-![Chart Output](screenshots/Screenshot 2026-02-01 083748.png)
-![Chart Output](screenshots/Screenshot 2026-02-01 083757.png)
+![Chart Output](Screenshots/Screenshot 2026-02-01 083358.png)
+![Chart Output](Screenshots/Screenshot 2026-02-01 083409.png)
+![Chart Output](Screenshots/Screenshot 2026-02-01 083421.png)
+![Chart Output](Screenshots/Screenshot 2026-02-01 083431.png)
+![Chart Output](Screenshots/Screenshot 2026-02-01 083443.png)
+![Chart Output](Screenshots/Screenshot 2026-02-01 083454.png)
+![Chart Output](Screenshots/Screenshot 2026-02-01 083507.png)
+![Chart Output](Screenshots/Screenshot 2026-02-01 083516.png)
+![Chart Output](Screenshots/Screenshot 2026-02-01 083748.png)
+![Chart Output](Screenshots/Screenshot 2026-02-01 083757.png)
+
 

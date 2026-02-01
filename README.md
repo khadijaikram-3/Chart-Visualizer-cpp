@@ -19,6 +19,7 @@ This project supports 10 different chart types for data visualization.
 - C++
 - graphics.h (BGI)
 - Turbo C++ / WinBGIm
+- Dev C++ with graphics header installed
 
 ## How to Run
 1. Install a compiler that supports graphics.h (Turbo C++ or WinBGIm)

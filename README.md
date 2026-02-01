@@ -27,3 +27,13 @@ This project supports 10 different chart types for data visualization.
 4. Enter input values as prompted
 
 ## Output
+Screenshot 2026-02-01 083358.png
+Screenshot 2026-02-01 083409.png
+Screenshot 2026-02-01 083421.png
+Screenshot 2026-02-01 083431.png
+Screenshot 2026-02-01 083443.png
+Screenshot 2026-02-01 083454.png
+Screenshot 2026-02-01 083507.png
+Screenshot 2026-02-01 083516.png
+Screenshot 2026-02-01 083748.png
+Screenshot 2026-02-01 083757.png
